@@ -70,14 +70,14 @@
 						"type": "uint256"
 					}
 				],
-				"name": "withdraw",
+				"name": "withdrawa",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
 			},
 			{
 				"inputs": [],
-				"name": "withdraw",
+				"name": "withdrawll",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -111,11 +111,11 @@
 	},
 	"sources": {
 		"B2/MyWallet.sol": {
-			"keccak256": "0x2bec4e39c96c8567d360de2eee889d87720e59a18dec1d8f0fb439a8042c548d",
+			"keccak256": "0x033498262ccf7150187b4f3051175f27be53167b252df38fcbc641fcbc861163",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://a0f251c3008985dee3d19ed2e50ff01ddd83806094e28b26e732e666dc0e5f64",
-				"dweb:/ipfs/QmczuHCbRjg7gMo4cQtQjRu9kHCde9qT6tix9R2oPXAQ2T"
+				"bzz-raw://65e12ed6b75f3e95145dc281ffaddcee9e369398d1af49937f2b5939e79e1725",
+				"dweb:/ipfs/QmWnrrTGVc5mCdNdHtSmefus2LxfCix8adA7yosP5jeb8a"
 			]
 		}
 	},
