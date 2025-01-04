@@ -1,0 +1,100 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_hoten",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_gioitinh",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_tenlop",
+						"type": "string"
+					}
+				],
+				"name": "nhap",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "xuatthongtin",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SinhVien.sol": "SinhVien"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Nguoi.sol": {
+			"keccak256": "0x850855b73ca9abd11497a7d2f865737ec6ab9eb228113f1ca841c1608a2d1321",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://ff37ef87128b958d639a6dc975f763568531caf5fddca962c6b245fff06c9b0f",
+				"dweb:/ipfs/QmTreND3L9khPUmsKNpBBHGrVLyzUmTPTk73HSDRqUTSDr"
+			]
+		},
+		"contracts/SinhVien.sol": {
+			"keccak256": "0x18100e2f039dd929292ae587e97a322945cd7cfdd4757b1798b912023eac7711",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://15a384a5246718e524c941f49ffa220fefc938e27c0eae968d5ba8304c40860a",
+				"dweb:/ipfs/QmeN3n6McgbDt72cuw2rMFvBDHxkLkmGDqwLgQBM3pqgSE"
+			]
+		}
+	},
+	"version": 1
+}
