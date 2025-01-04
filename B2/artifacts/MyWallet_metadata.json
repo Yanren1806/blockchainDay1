@@ -11,6 +11,25 @@
 				"type": "constructor"
 			},
 			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "balance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
 				"inputs": [],
 				"name": "deposit",
 				"outputs": [],
@@ -25,6 +44,19 @@
 						"internalType": "address",
 						"name": "",
 						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "showAllUser",
+				"outputs": [
+					{
+						"internalType": "address[]",
+						"name": "",
+						"type": "address[]"
 					}
 				],
 				"stateMutability": "view",
@@ -79,11 +111,11 @@
 	},
 	"sources": {
 		"B2/MyWallet.sol": {
-			"keccak256": "0x706ca0003b95152611b08cfe31493cd954dab4f7bbce4893ddcd0eb99e18624c",
+			"keccak256": "0x2bec4e39c96c8567d360de2eee889d87720e59a18dec1d8f0fb439a8042c548d",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://6c846fab9d74b1a0024efd41d719ee4372fec529473b248dfe5e0c2d40ac218b",
-				"dweb:/ipfs/QmaBSsJ1p5MYKEzuoNc9KEyZJAbDXUeUjrdT5ApEnWW99K"
+				"bzz-raw://a0f251c3008985dee3d19ed2e50ff01ddd83806094e28b26e732e666dc0e5f64",
+				"dweb:/ipfs/QmczuHCbRjg7gMo4cQtQjRu9kHCde9qT6tix9R2oPXAQ2T"
 			]
 		}
 	},
